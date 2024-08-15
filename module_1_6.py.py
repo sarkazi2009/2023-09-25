@@ -6,5 +6,5 @@ a=my_dict.pop('Dasha')
 print(a)
 my_set = {1, 2, 3, 'Fresh', 3, 3, 21, 'Apple'}
 print(my_set)
-my_set.update(('Pu'), (25,100))
+my_set.update(('Python'), (25,100))
 print(my_set)
